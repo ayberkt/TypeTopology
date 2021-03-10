@@ -15,6 +15,8 @@ open import UF-PropTrunc
 open import UF-FunExt
 open import UF-PropTrunc
 
+foo bar
+
 module Frame
         (pt : propositional-truncations-exist)
         (fe : Fun-Ext)
